@@ -5,3 +5,12 @@ The project was an effort to implement parts of this paper https://arxiv.org/abs
  
 
 It's been a while since I looked at the code, so I'm slowly going to document the code a bit.
+
+TODO:
+
+ -- Document code
+ 
+ -- Make sure results in paper can be reliably replicated
+  
+ -- Implementation in PyTorch
+ 
